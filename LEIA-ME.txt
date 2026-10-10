@@ -1,0 +1,130 @@
+# RADAR ENERGIA — Análise de Indicadores Operacionais
+
+## 1. Apresentação do projeto
+
+O **RADAR ENERGIA** é um projeto demonstrativo de análise de dados operacionais desenvolvido para praticar e demonstrar competências em tratamento de dados, automação com Python, análise de indicadores, consolidação de informações e visualização de dados no Power BI.
+
+O projeto simula um cenário de acompanhamento de ordens de serviço relacionadas a operações de energia, com foco na análise de desempenho por regional, controle de backlog, cumprimento de SLA, reincidência de ordens e identificação de atrasos operacionais.
+
+**Objetivo:** transformar dados operacionais em informações estruturadas que apoiem o monitoramento de resultados, a identificação de desvios e a priorização de ações de melhoria.
+
+## 2. Escopo e período analisado
+
+- **Período simulado:** abril a setembro de 2026.
+- **Total de ordens de serviço:** 1.800.
+- **Regionais analisadas:** 8.
+- **Equipes cadastradas:** 15.
+- **Ocorrências de energia simuladas:** 420.
+- **Ferramentas principais:** Python, Pandas, CSV e Microsoft Power BI.
+- **Linguagem de consulta complementar:** SQL, prevista para exploração e análise dos dados.
+
+## 3. Estrutura do projeto
+
+```text
+RADAR_ENERGIA/
+│
+├── data/
+│   ├── raw/
+│   │   ├── equipes.csv
+│   │   ├── ocorrencias_energia.csv
+│   │   ├── ordens_servico.csv
+│   │   └── regionais.csv
+│   │
+│   └── processed/
+│       ├── indicadores_por_regional.csv
+│       ├── indicadores_reincidencia_por_regional.csv
+│       ├── indicadores_sla_por_regional.csv
+│       └── radar_indicadores_consolidados.csv
+│
+├── python/
+│   ├── 01_explorar_dados.py
+│   ├── 02_validar_dados.py
+│   ├── 03_analisar_status.py
+│   ├── 04_indicadores_operacionais.py
+│   ├── 05_analise_regional.py
+│   ├── 06_analise_sla.py
+│   ├── 07_analise_reincidencia.py
+│   └── 08_consolidar_indicadores.py
+│
+├── powerbi/
+│   └── RADAR_ENERGIA.pbix
+│
+├── sql/
+│
+└── LEIA-ME.txt
+```
+
+## 4. Descrição dos arquivos de dados
+
+### Dados brutos — `data/raw/`
+
+- **ordens_servico.csv:** base principal com ordens de serviço, incluindo informações de regional, equipe, prioridade, status, SLA, execução e custo estimado.
+- **equipes.csv:** cadastro demonstrativo de equipes, especialidades, tamanho e custo-hora estimado.
+- **ocorrencias_energia.csv:** registros fictícios de ocorrências de energia, com informações sobre causa, clientes afetados e duração.
+- **regionais.csv:** cadastro de referência das oito regionais utilizadas no cenário simulado.
+
+### Dados processados — `data/processed/`
+
+- **indicadores_por_regional.csv:** indicadores operacionais consolidados por regional.
+- **indicadores_reincidencia_por_regional.csv:** dados utilizados na análise de reincidência.
+- **indicadores_sla_por_regional.csv:** informações utilizadas na análise de cumprimento do SLA.
+- **radar_indicadores_consolidados.csv:** base consolidada que reúne os indicadores utilizados na construção do painel do Power BI.
+
+## 5. Etapas desenvolvidas em Python
+
+O processamento foi organizado em scripts independentes para facilitar a manutenção, a validação e a evolução do projeto.
+
+### 01 — Exploração dos dados
+
+Arquivo: `01_explorar_dados.py`
+
+- Leitura dos arquivos CSV utilizando Pandas.
+- Identificação da quantidade de registros e colunas.
+- Inspeção inicial da estrutura das bases.
+- Verificação da disponibilidade dos arquivos de entrada.
+
+### 02 — Validação dos dados
+
+Arquivo: `02_validar_dados.py`
+
+- Identificação de valores ausentes.
+- Verificação de registros duplicados.
+- Análise dos tipos de dados.
+- Avaliação inicial da consistência das informações.
+
+### 03 — Análise de status
+
+Arquivo: `03_analisar_status.py`
+
+- Contagem de ordens por status.
+- Análise de ordens concluídas, pendentes, em andamento e canceladas.
+- Verificação de campos ausentes de acordo com o status das ordens.
+
+### 04 — Indicadores operacionais
+
+Arquivo: `04_indicadores_operacionais.py`
+
+- Cálculo do volume total de ordens.
+- Quantificação de ordens concluídas, pendentes, em andamento e canceladas.
+- Cálculo do backlog operacional.
+- Cálculo das taxas de conclusão e backlog.
+
+### 05 — Análise regional
+
+Arquivo: `05_analise_regional.py`
+
+- Consolidação de indicadores por regional.
+- Comparação do volume de ordens e do backlog.
+- Identificação de diferenças no desempenho operacional entre regionais.
+
+### 06 — Análise de SLA
+
+Arquivo: `06_analise_sla.py`
+
+- Análise das ordens concluídas dentro do SLA.
+- Cálculo dos indicadores de cumprimento de SLA.
+- Comparação do desempenho entre regionais.
+
+### 07 — Análise de reincidência
+
+Arquivo: `07_analise_reincidencia

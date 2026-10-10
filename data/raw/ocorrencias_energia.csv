@@ -1,0 +1,421 @@
+﻿ocorrencia_id,data_inicio,regional,causa,clientes_afetados,duracao_interrupcao_horas,tipo_rede,programada
+OC-0001,2026-07-09 02:00:00,Barcarena,Manutenção programada,700,2.26,Urbana,Sim
+OC-0002,2026-05-20 23:00:00,Altamira,Manutenção programada,682,2.93,Urbana,Não
+OC-0003,2026-05-28 04:00:00,Marabá,Manutenção programada,867,1.4,Urbana,Sim
+OC-0004,2026-07-14 17:00:00,Parauapebas,Clima,1692,8.07,Rural,Sim
+OC-0005,2026-08-12 12:00:00,Belém,Manutenção programada,811,8.25,Urbana,Sim
+OC-0006,2026-09-14 09:00:00,Castanhal,Manutenção programada,1227,14.54,Urbana,Sim
+OC-0007,2026-09-28 17:00:00,Altamira,Terceiros,898,1.22,Urbana,Não
+OC-0008,2026-04-12 10:00:00,Altamira,Manutenção programada,731,3.79,Rural,Não
+OC-0009,2026-09-02 03:00:00,Santarém,Manutenção programada,1023,0.82,Rural,Não
+OC-0010,2026-08-28 20:00:00,Ananindeua,Vegetação,1083,5.73,Rural,Sim
+OC-0011,2026-07-21 18:00:00,Santarém,Outra,1570,1.36,Urbana,Sim
+OC-0012,2026-04-27 20:00:00,Barcarena,Vegetação,853,2.97,Urbana,Não
+OC-0013,2026-09-23 08:00:00,Santarém,Terceiros,1100,4.84,Rural,Sim
+OC-0014,2026-05-09 15:00:00,Ananindeua,Vegetação,68,4.93,Urbana,Sim
+OC-0015,2026-04-18 00:00:00,Belém,Equipamento,758,6.21,Urbana,Sim
+OC-0016,2026-04-07 00:00:00,Marabá,Outra,742,5.38,Urbana,Sim
+OC-0017,2026-08-06 19:00:00,Castanhal,Terceiros,1127,2.37,Urbana,Não
+OC-0018,2026-09-20 03:00:00,Altamira,Outra,1091,6.19,Rural,Sim
+OC-0019,2026-06-19 16:00:00,Castanhal,Equipamento,413,1.66,Rural,Não
+OC-0020,2026-07-09 01:00:00,Santarém,Equipamento,1775,6.94,Rural,Não
+OC-0021,2026-08-10 06:00:00,Belém,Outra,815,8.55,Rural,Sim
+OC-0022,2026-05-10 02:00:00,Barcarena,Equipamento,230,0.57,Rural,Sim
+OC-0023,2026-06-03 16:00:00,Castanhal,Outra,942,7.28,Rural,Não
+OC-0024,2026-08-12 11:00:00,Ananindeua,Terceiros,93,11.32,Rural,Não
+OC-0025,2026-09-15 03:00:00,Belém,Terceiros,198,2.57,Urbana,Não
+OC-0026,2026-05-09 09:00:00,Ananindeua,Terceiros,88,8.24,Rural,Sim
+OC-0027,2026-05-30 00:00:00,Ananindeua,Vegetação,1223,1.29,Urbana,Não
+OC-0028,2026-06-11 11:00:00,Parauapebas,Outra,387,1.03,Rural,Sim
+OC-0029,2026-06-12 10:00:00,Barcarena,Clima,228,2.17,Rural,Não
+OC-0030,2026-08-11 07:00:00,Barcarena,Vegetação,505,1.35,Rural,Sim
+OC-0031,2026-05-02 09:00:00,Belém,Outra,49,4.28,Urbana,Sim
+OC-0032,2026-06-13 21:00:00,Barcarena,Clima,1733,12.43,Urbana,Não
+OC-0033,2026-09-30 01:00:00,Castanhal,Outra,894,2.63,Rural,Sim
+OC-0034,2026-06-01 00:00:00,Castanhal,Manutenção programada,820,1.51,Urbana,Não
+OC-0035,2026-06-18 14:00:00,Marabá,Terceiros,724,1.31,Rural,Sim
+OC-0036,2026-05-12 18:00:00,Belém,Equipamento,234,1.52,Rural,Não
+OC-0037,2026-09-28 18:00:00,Ananindeua,Outra,1096,3.46,Urbana,Sim
+OC-0038,2026-06-27 15:00:00,Santarém,Terceiros,1105,2.19,Rural,Sim
+OC-0039,2026-06-24 22:00:00,Belém,Terceiros,938,3.8,Urbana,Não
+OC-0040,2026-08-08 11:00:00,Belém,Equipamento,397,4.29,Urbana,Sim
+OC-0041,2026-04-27 06:00:00,Altamira,Outra,445,2.1,Rural,Sim
+OC-0042,2026-08-14 11:00:00,Barcarena,Outra,847,1.54,Urbana,Sim
+OC-0043,2026-04-30 17:00:00,Marabá,Vegetação,807,0.5,Urbana,Sim
+OC-0044,2026-04-05 00:00:00,Barcarena,Terceiros,1398,3.34,Rural,Não
+OC-0045,2026-09-02 22:00:00,Belém,Outra,752,1.05,Rural,Sim
+OC-0046,2026-05-14 17:00:00,Parauapebas,Terceiros,22,3.56,Urbana,Não
+OC-0047,2026-09-21 16:00:00,Parauapebas,Manutenção programada,247,1.52,Rural,Sim
+OC-0048,2026-04-21 00:00:00,Ananindeua,Clima,1433,7.62,Rural,Não
+OC-0049,2026-08-15 23:00:00,Barcarena,Terceiros,1787,4.66,Urbana,Sim
+OC-0050,2026-08-11 03:00:00,Ananindeua,Clima,250,1.02,Urbana,Sim
+OC-0051,2026-09-26 01:00:00,Marabá,Outra,603,1.62,Urbana,Não
+OC-0052,2026-06-09 01:00:00,Altamira,Manutenção programada,1763,9.37,Rural,Não
+OC-0053,2026-08-30 00:00:00,Ananindeua,Outra,1396,2.5,Urbana,Não
+OC-0054,2026-05-19 09:00:00,Ananindeua,Manutenção programada,1672,2.22,Urbana,Sim
+OC-0055,2026-04-13 19:00:00,Santarém,Vegetação,1076,3.78,Rural,Sim
+OC-0056,2026-08-19 02:00:00,Parauapebas,Clima,443,7.43,Rural,Sim
+OC-0057,2026-05-26 05:00:00,Belém,Clima,1231,4.8,Rural,Sim
+OC-0058,2026-07-30 23:00:00,Castanhal,Vegetação,16,5.38,Rural,Sim
+OC-0059,2026-05-25 13:00:00,Barcarena,Vegetação,56,3.4,Urbana,Não
+OC-0060,2026-09-24 08:00:00,Barcarena,Terceiros,343,7.57,Urbana,Sim
+OC-0061,2026-07-18 22:00:00,Marabá,Terceiros,659,11.41,Urbana,Sim
+OC-0062,2026-05-02 19:00:00,Marabá,Manutenção programada,417,1.66,Urbana,Sim
+OC-0063,2026-05-15 13:00:00,Barcarena,Manutenção programada,1270,4.92,Urbana,Sim
+OC-0064,2026-05-29 19:00:00,Santarém,Outra,354,2.32,Rural,Não
+OC-0065,2026-05-09 04:00:00,Santarém,Equipamento,1620,2.91,Rural,Sim
+OC-0066,2026-07-20 10:00:00,Parauapebas,Clima,729,4.45,Rural,Não
+OC-0067,2026-09-28 17:00:00,Belém,Vegetação,1271,1.34,Rural,Não
+OC-0068,2026-06-11 03:00:00,Barcarena,Manutenção programada,314,4.61,Urbana,Sim
+OC-0069,2026-08-09 17:00:00,Barcarena,Manutenção programada,1535,2.4,Rural,Sim
+OC-0070,2026-05-26 20:00:00,Santarém,Manutenção programada,454,3.05,Rural,Não
+OC-0071,2026-04-12 22:00:00,Ananindeua,Terceiros,1659,6.2,Urbana,Não
+OC-0072,2026-08-07 14:00:00,Ananindeua,Manutenção programada,38,6.93,Urbana,Sim
+OC-0073,2026-04-09 04:00:00,Belém,Equipamento,88,6.31,Rural,Não
+OC-0074,2026-09-27 22:00:00,Castanhal,Terceiros,1006,1.03,Rural,Não
+OC-0075,2026-09-21 10:00:00,Altamira,Equipamento,860,5.91,Rural,Não
+OC-0076,2026-05-06 11:00:00,Parauapebas,Outra,345,6.97,Urbana,Não
+OC-0077,2026-04-19 01:00:00,Altamira,Clima,1011,2.46,Rural,Não
+OC-0078,2026-05-04 01:00:00,Ananindeua,Equipamento,1685,2.35,Rural,Não
+OC-0079,2026-06-14 19:00:00,Castanhal,Manutenção programada,1267,1.98,Urbana,Não
+OC-0080,2026-05-11 03:00:00,Altamira,Vegetação,959,12.33,Urbana,Não
+OC-0081,2026-06-11 17:00:00,Castanhal,Vegetação,1681,4.22,Rural,Não
+OC-0082,2026-07-03 02:00:00,Castanhal,Equipamento,530,1.01,Rural,Sim
+OC-0083,2026-08-23 02:00:00,Marabá,Outra,444,1.43,Rural,Sim
+OC-0084,2026-06-18 00:00:00,Altamira,Outra,1409,0.95,Rural,Sim
+OC-0085,2026-06-25 13:00:00,Barcarena,Manutenção programada,1670,1.28,Urbana,Sim
+OC-0086,2026-09-16 15:00:00,Castanhal,Outra,1369,2.43,Urbana,Sim
+OC-0087,2026-05-12 02:00:00,Altamira,Vegetação,460,9.2,Rural,Não
+OC-0088,2026-08-20 04:00:00,Santarém,Terceiros,396,3.71,Rural,Não
+OC-0089,2026-09-20 19:00:00,Barcarena,Manutenção programada,609,4.46,Rural,Sim
+OC-0090,2026-04-24 02:00:00,Castanhal,Manutenção programada,232,3.75,Urbana,Não
+OC-0091,2026-08-14 10:00:00,Ananindeua,Terceiros,248,4.86,Rural,Sim
+OC-0092,2026-09-25 11:00:00,Ananindeua,Vegetação,1345,2.69,Rural,Não
+OC-0093,2026-07-07 23:00:00,Barcarena,Manutenção programada,111,1.8,Rural,Não
+OC-0094,2026-09-08 14:00:00,Santarém,Equipamento,89,4.44,Urbana,Não
+OC-0095,2026-07-24 23:00:00,Barcarena,Manutenção programada,684,1.87,Urbana,Não
+OC-0096,2026-06-08 15:00:00,Parauapebas,Terceiros,296,2.11,Rural,Sim
+OC-0097,2026-08-30 19:00:00,Marabá,Vegetação,989,1.61,Urbana,Não
+OC-0098,2026-07-28 07:00:00,Belém,Clima,329,3.24,Urbana,Não
+OC-0099,2026-04-10 14:00:00,Ananindeua,Manutenção programada,1505,6.47,Rural,Sim
+OC-0100,2026-08-09 15:00:00,Ananindeua,Outra,31,2.41,Rural,Sim
+OC-0101,2026-07-15 07:00:00,Belém,Outra,1501,1.62,Urbana,Sim
+OC-0102,2026-08-13 00:00:00,Ananindeua,Equipamento,119,3.09,Rural,Não
+OC-0103,2026-08-21 16:00:00,Parauapebas,Vegetação,627,0.91,Urbana,Sim
+OC-0104,2026-05-14 16:00:00,Castanhal,Manutenção programada,309,0.95,Rural,Sim
+OC-0105,2026-05-27 01:00:00,Marabá,Clima,1169,7.09,Rural,Sim
+OC-0106,2026-08-22 01:00:00,Marabá,Terceiros,1331,1.72,Urbana,Sim
+OC-0107,2026-05-22 00:00:00,Marabá,Clima,1136,3.95,Rural,Não
+OC-0108,2026-04-06 18:00:00,Ananindeua,Clima,68,1.56,Urbana,Não
+OC-0109,2026-05-19 09:00:00,Santarém,Vegetação,1470,4.62,Rural,Sim
+OC-0110,2026-04-08 18:00:00,Marabá,Vegetação,375,10.76,Rural,Sim
+OC-0111,2026-09-10 02:00:00,Belém,Vegetação,1256,8.14,Rural,Não
+OC-0112,2026-07-08 13:00:00,Parauapebas,Terceiros,1549,7.87,Urbana,Sim
+OC-0113,2026-05-10 00:00:00,Ananindeua,Clima,318,10.62,Rural,Não
+OC-0114,2026-04-24 04:00:00,Barcarena,Vegetação,1535,2.56,Rural,Não
+OC-0115,2026-06-25 23:00:00,Belém,Manutenção programada,886,6.34,Rural,Sim
+OC-0116,2026-04-07 11:00:00,Barcarena,Terceiros,1348,3.83,Rural,Não
+OC-0117,2026-07-04 08:00:00,Belém,Terceiros,1472,17.3,Rural,Não
+OC-0118,2026-09-26 00:00:00,Santarém,Equipamento,638,7.64,Urbana,Sim
+OC-0119,2026-07-25 06:00:00,Parauapebas,Vegetação,997,6.72,Rural,Sim
+OC-0120,2026-05-02 17:00:00,Santarém,Equipamento,368,6.92,Rural,Não
+OC-0121,2026-08-01 20:00:00,Castanhal,Vegetação,1554,1.93,Rural,Sim
+OC-0122,2026-09-22 16:00:00,Parauapebas,Manutenção programada,341,2.15,Rural,Sim
+OC-0123,2026-07-31 10:00:00,Santarém,Outra,947,6.13,Urbana,Não
+OC-0124,2026-08-20 17:00:00,Belém,Terceiros,549,1.34,Rural,Não
+OC-0125,2026-07-21 17:00:00,Parauapebas,Clima,232,0.9,Rural,Não
+OC-0126,2026-09-11 15:00:00,Barcarena,Terceiros,1196,10.46,Urbana,Não
+OC-0127,2026-06-02 01:00:00,Castanhal,Equipamento,447,1.58,Urbana,Não
+OC-0128,2026-08-26 09:00:00,Altamira,Equipamento,799,2.67,Rural,Sim
+OC-0129,2026-08-13 10:00:00,Marabá,Vegetação,1756,2.39,Urbana,Sim
+OC-0130,2026-06-27 00:00:00,Parauapebas,Equipamento,616,7.41,Urbana,Sim
+OC-0131,2026-07-14 06:00:00,Ananindeua,Outra,1089,2.44,Urbana,Sim
+OC-0132,2026-07-10 03:00:00,Belém,Equipamento,440,6.08,Urbana,Não
+OC-0133,2026-06-20 08:00:00,Barcarena,Vegetação,1501,1.24,Rural,Sim
+OC-0134,2026-08-09 04:00:00,Parauapebas,Equipamento,1371,8.18,Urbana,Sim
+OC-0135,2026-07-17 22:00:00,Parauapebas,Equipamento,1390,2.33,Urbana,Sim
+OC-0136,2026-09-13 06:00:00,Santarém,Clima,967,3.84,Urbana,Sim
+OC-0137,2026-08-17 13:00:00,Castanhal,Manutenção programada,323,2.82,Rural,Não
+OC-0138,2026-05-03 22:00:00,Marabá,Vegetação,945,1.87,Urbana,Sim
+OC-0139,2026-08-08 11:00:00,Ananindeua,Clima,1281,2.47,Urbana,Não
+OC-0140,2026-04-27 13:00:00,Marabá,Manutenção programada,1225,13.22,Urbana,Não
+OC-0141,2026-07-06 09:00:00,Altamira,Outra,629,4.61,Urbana,Sim
+OC-0142,2026-05-31 06:00:00,Marabá,Vegetação,1093,5.48,Urbana,Não
+OC-0143,2026-08-25 02:00:00,Marabá,Equipamento,961,3.75,Urbana,Sim
+OC-0144,2026-07-18 04:00:00,Parauapebas,Vegetação,70,0.89,Urbana,Sim
+OC-0145,2026-05-03 09:00:00,Barcarena,Vegetação,1752,3.27,Urbana,Sim
+OC-0146,2026-06-03 00:00:00,Altamira,Manutenção programada,202,2.97,Rural,Não
+OC-0147,2026-05-21 09:00:00,Santarém,Terceiros,1756,31.93,Urbana,Sim
+OC-0148,2026-09-30 04:00:00,Santarém,Vegetação,1495,5.16,Urbana,Sim
+OC-0149,2026-07-23 14:00:00,Parauapebas,Vegetação,410,1.74,Urbana,Não
+OC-0150,2026-09-28 02:00:00,Barcarena,Manutenção programada,286,5.84,Rural,Não
+OC-0151,2026-04-04 21:00:00,Parauapebas,Manutenção programada,659,2.0,Rural,Não
+OC-0152,2026-08-10 13:00:00,Parauapebas,Equipamento,1600,8.95,Rural,Sim
+OC-0153,2026-08-17 23:00:00,Barcarena,Vegetação,1296,17.23,Urbana,Sim
+OC-0154,2026-07-10 08:00:00,Ananindeua,Manutenção programada,1705,3.19,Rural,Não
+OC-0155,2026-09-30 14:00:00,Ananindeua,Manutenção programada,1348,3.23,Rural,Não
+OC-0156,2026-09-26 15:00:00,Parauapebas,Equipamento,153,1.84,Rural,Sim
+OC-0157,2026-07-03 18:00:00,Altamira,Terceiros,1628,2.66,Urbana,Sim
+OC-0158,2026-06-18 22:00:00,Santarém,Terceiros,277,1.69,Urbana,Não
+OC-0159,2026-09-09 16:00:00,Marabá,Outra,152,2.94,Rural,Não
+OC-0160,2026-08-21 01:00:00,Santarém,Vegetação,1101,4.8,Urbana,Sim
+OC-0161,2026-04-20 09:00:00,Barcarena,Equipamento,385,8.92,Rural,Não
+OC-0162,2026-08-12 15:00:00,Barcarena,Outra,1049,1.61,Rural,Não
+OC-0163,2026-07-25 22:00:00,Santarém,Terceiros,1044,3.31,Urbana,Não
+OC-0164,2026-06-23 13:00:00,Belém,Vegetação,1246,1.02,Urbana,Sim
+OC-0165,2026-05-05 02:00:00,Castanhal,Equipamento,136,1.52,Urbana,Não
+OC-0166,2026-05-14 10:00:00,Barcarena,Terceiros,245,6.92,Rural,Sim
+OC-0167,2026-05-16 11:00:00,Castanhal,Equipamento,320,4.96,Rural,Sim
+OC-0168,2026-08-29 21:00:00,Barcarena,Clima,733,4.35,Rural,Não
+OC-0169,2026-06-05 22:00:00,Santarém,Equipamento,251,2.14,Urbana,Sim
+OC-0170,2026-09-02 15:00:00,Ananindeua,Vegetação,1540,2.98,Rural,Sim
+OC-0171,2026-04-06 23:00:00,Belém,Manutenção programada,159,1.33,Urbana,Não
+OC-0172,2026-04-20 12:00:00,Belém,Terceiros,71,1.63,Rural,Não
+OC-0173,2026-04-16 02:00:00,Barcarena,Equipamento,475,5.55,Rural,Não
+OC-0174,2026-04-01 15:00:00,Altamira,Clima,898,2.23,Urbana,Não
+OC-0175,2026-09-24 01:00:00,Barcarena,Terceiros,1651,0.62,Urbana,Sim
+OC-0176,2026-06-24 20:00:00,Marabá,Terceiros,535,1.23,Rural,Não
+OC-0177,2026-05-14 05:00:00,Castanhal,Vegetação,164,15.17,Urbana,Sim
+OC-0178,2026-09-07 22:00:00,Ananindeua,Manutenção programada,502,4.26,Rural,Não
+OC-0179,2026-06-20 00:00:00,Parauapebas,Vegetação,1078,3.71,Urbana,Sim
+OC-0180,2026-05-24 16:00:00,Castanhal,Clima,1614,3.7,Urbana,Sim
+OC-0181,2026-08-06 12:00:00,Parauapebas,Manutenção programada,270,6.1,Urbana,Não
+OC-0182,2026-05-14 02:00:00,Marabá,Terceiros,301,1.79,Rural,Sim
+OC-0183,2026-07-25 15:00:00,Belém,Clima,267,4.11,Urbana,Sim
+OC-0184,2026-08-08 08:00:00,Castanhal,Outra,515,2.86,Rural,Sim
+OC-0185,2026-07-27 11:00:00,Santarém,Terceiros,1215,2.39,Urbana,Não
+OC-0186,2026-05-10 03:00:00,Ananindeua,Clima,963,3.34,Rural,Não
+OC-0187,2026-04-11 19:00:00,Altamira,Terceiros,1177,2.16,Rural,Não
+OC-0188,2026-06-21 05:00:00,Altamira,Manutenção programada,1213,2.54,Urbana,Não
+OC-0189,2026-08-27 00:00:00,Santarém,Vegetação,1139,1.62,Urbana,Não
+OC-0190,2026-04-05 15:00:00,Barcarena,Equipamento,718,1.39,Rural,Não
+OC-0191,2026-06-16 17:00:00,Barcarena,Outra,98,2.33,Rural,Sim
+OC-0192,2026-07-20 03:00:00,Castanhal,Equipamento,288,26.35,Urbana,Sim
+OC-0193,2026-08-03 14:00:00,Santarém,Vegetação,137,0.78,Urbana,Não
+OC-0194,2026-05-11 01:00:00,Marabá,Clima,1728,8.46,Rural,Não
+OC-0195,2026-05-12 23:00:00,Parauapebas,Terceiros,1458,8.13,Rural,Não
+OC-0196,2026-04-03 07:00:00,Ananindeua,Vegetação,362,2.77,Urbana,Não
+OC-0197,2026-07-06 23:00:00,Ananindeua,Equipamento,250,6.14,Urbana,Não
+OC-0198,2026-06-23 02:00:00,Parauapebas,Terceiros,192,2.94,Urbana,Não
+OC-0199,2026-09-15 22:00:00,Barcarena,Clima,890,3.96,Rural,Não
+OC-0200,2026-08-27 08:00:00,Ananindeua,Equipamento,1234,4.02,Urbana,Não
+OC-0201,2026-08-12 04:00:00,Barcarena,Terceiros,955,6.22,Urbana,Não
+OC-0202,2026-05-13 16:00:00,Parauapebas,Vegetação,1767,2.04,Rural,Sim
+OC-0203,2026-06-11 13:00:00,Marabá,Equipamento,1699,3.17,Urbana,Não
+OC-0204,2026-04-29 12:00:00,Parauapebas,Clima,1056,1.13,Urbana,Sim
+OC-0205,2026-09-27 15:00:00,Ananindeua,Outra,1697,1.82,Urbana,Sim
+OC-0206,2026-09-08 15:00:00,Parauapebas,Terceiros,771,1.69,Urbana,Sim
+OC-0207,2026-05-13 03:00:00,Belém,Clima,790,3.28,Rural,Sim
+OC-0208,2026-04-26 14:00:00,Belém,Vegetação,1659,2.28,Rural,Não
+OC-0209,2026-08-11 17:00:00,Altamira,Outra,1319,1.31,Urbana,Sim
+OC-0210,2026-09-10 17:00:00,Marabá,Equipamento,1348,1.11,Rural,Sim
+OC-0211,2026-08-22 22:00:00,Belém,Manutenção programada,408,1.14,Urbana,Sim
+OC-0212,2026-05-20 22:00:00,Belém,Vegetação,805,2.2,Urbana,Não
+OC-0213,2026-07-31 17:00:00,Barcarena,Clima,1743,13.85,Rural,Não
+OC-0214,2026-08-12 07:00:00,Ananindeua,Manutenção programada,599,2.87,Rural,Sim
+OC-0215,2026-07-27 23:00:00,Ananindeua,Terceiros,1030,6.98,Rural,Sim
+OC-0216,2026-07-26 14:00:00,Ananindeua,Terceiros,1426,1.86,Urbana,Não
+OC-0217,2026-05-25 04:00:00,Belém,Terceiros,267,2.83,Rural,Sim
+OC-0218,2026-09-29 02:00:00,Barcarena,Terceiros,1612,13.64,Rural,Não
+OC-0219,2026-09-06 12:00:00,Castanhal,Outra,774,3.3,Rural,Não
+OC-0220,2026-05-14 04:00:00,Santarém,Equipamento,105,1.8,Rural,Sim
+OC-0221,2026-06-23 21:00:00,Santarém,Terceiros,1442,2.48,Urbana,Sim
+OC-0222,2026-07-02 16:00:00,Belém,Clima,41,1.67,Urbana,Sim
+OC-0223,2026-09-04 01:00:00,Marabá,Clima,769,1.92,Rural,Sim
+OC-0224,2026-08-08 22:00:00,Marabá,Outra,975,6.65,Urbana,Não
+OC-0225,2026-06-12 08:00:00,Altamira,Outra,1368,3.1,Rural,Sim
+OC-0226,2026-06-14 20:00:00,Barcarena,Terceiros,954,1.36,Rural,Sim
+OC-0227,2026-04-14 06:00:00,Castanhal,Outra,1738,4.81,Urbana,Não
+OC-0228,2026-08-26 20:00:00,Belém,Equipamento,987,1.86,Urbana,Não
+OC-0229,2026-05-22 12:00:00,Santarém,Equipamento,1670,4.58,Urbana,Sim
+OC-0230,2026-04-14 09:00:00,Belém,Equipamento,1003,7.97,Rural,Sim
+OC-0231,2026-04-20 05:00:00,Barcarena,Terceiros,1262,5.31,Rural,Não
+OC-0232,2026-04-22 09:00:00,Barcarena,Vegetação,978,2.6,Rural,Não
+OC-0233,2026-07-14 22:00:00,Altamira,Manutenção programada,1724,4.41,Urbana,Sim
+OC-0234,2026-07-20 03:00:00,Marabá,Equipamento,1630,11.23,Rural,Sim
+OC-0235,2026-04-02 17:00:00,Barcarena,Equipamento,1554,12.02,Urbana,Sim
+OC-0236,2026-04-02 03:00:00,Marabá,Vegetação,108,1.96,Rural,Não
+OC-0237,2026-06-21 10:00:00,Santarém,Outra,1325,5.25,Urbana,Não
+OC-0238,2026-09-13 13:00:00,Belém,Clima,631,7.34,Rural,Não
+OC-0239,2026-06-10 05:00:00,Altamira,Equipamento,767,2.75,Urbana,Sim
+OC-0240,2026-05-28 05:00:00,Barcarena,Manutenção programada,631,20.12,Urbana,Sim
+OC-0241,2026-04-12 05:00:00,Marabá,Equipamento,1760,2.76,Rural,Não
+OC-0242,2026-07-01 07:00:00,Santarém,Terceiros,580,3.64,Urbana,Não
+OC-0243,2026-04-24 14:00:00,Castanhal,Manutenção programada,1663,4.81,Rural,Sim
+OC-0244,2026-06-18 14:00:00,Castanhal,Equipamento,1042,4.3,Urbana,Não
+OC-0245,2026-08-27 01:00:00,Ananindeua,Terceiros,1547,5.53,Rural,Não
+OC-0246,2026-08-03 00:00:00,Santarém,Equipamento,1174,3.58,Urbana,Não
+OC-0247,2026-06-29 15:00:00,Castanhal,Equipamento,159,5.39,Urbana,Sim
+OC-0248,2026-04-16 00:00:00,Castanhal,Terceiros,113,7.03,Rural,Sim
+OC-0249,2026-08-12 00:00:00,Santarém,Clima,870,0.81,Urbana,Não
+OC-0250,2026-05-27 14:00:00,Santarém,Terceiros,1636,11.92,Urbana,Não
+OC-0251,2026-08-26 06:00:00,Belém,Clima,455,6.38,Rural,Não
+OC-0252,2026-08-14 22:00:00,Belém,Manutenção programada,1266,3.25,Rural,Sim
+OC-0253,2026-05-25 19:00:00,Barcarena,Manutenção programada,1788,4.13,Urbana,Não
+OC-0254,2026-04-01 01:00:00,Ananindeua,Vegetação,1148,2.7,Rural,Não
+OC-0255,2026-07-17 10:00:00,Marabá,Manutenção programada,328,0.46,Urbana,Sim
+OC-0256,2026-05-21 15:00:00,Parauapebas,Clima,524,3.56,Rural,Sim
+OC-0257,2026-07-03 03:00:00,Barcarena,Clima,1039,2.22,Urbana,Sim
+OC-0258,2026-08-15 19:00:00,Castanhal,Vegetação,73,5.19,Rural,Não
+OC-0259,2026-08-24 23:00:00,Parauapebas,Vegetação,1610,6.45,Rural,Sim
+OC-0260,2026-07-23 03:00:00,Marabá,Equipamento,435,3.81,Urbana,Não
+OC-0261,2026-09-23 09:00:00,Castanhal,Manutenção programada,581,3.91,Urbana,Sim
+OC-0262,2026-09-12 14:00:00,Marabá,Clima,1140,0.81,Urbana,Sim
+OC-0263,2026-06-20 20:00:00,Ananindeua,Equipamento,142,10.24,Urbana,Sim
+OC-0264,2026-07-02 21:00:00,Barcarena,Equipamento,888,17.23,Urbana,Não
+OC-0265,2026-04-07 22:00:00,Ananindeua,Terceiros,529,1.94,Rural,Sim
+OC-0266,2026-04-11 12:00:00,Altamira,Clima,1752,2.13,Rural,Sim
+OC-0267,2026-05-16 09:00:00,Parauapebas,Vegetação,1249,6.62,Rural,Sim
+OC-0268,2026-09-07 08:00:00,Ananindeua,Clima,1020,1.87,Urbana,Sim
+OC-0269,2026-08-15 08:00:00,Altamira,Vegetação,982,5.05,Urbana,Não
+OC-0270,2026-05-05 02:00:00,Altamira,Clima,742,2.4,Rural,Não
+OC-0271,2026-04-22 19:00:00,Parauapebas,Clima,1249,5.01,Rural,Sim
+OC-0272,2026-06-14 04:00:00,Marabá,Vegetação,1362,2.48,Rural,Sim
+OC-0273,2026-07-04 17:00:00,Santarém,Outra,406,3.62,Rural,Não
+OC-0274,2026-04-10 15:00:00,Parauapebas,Equipamento,794,3.33,Rural,Sim
+OC-0275,2026-05-10 09:00:00,Belém,Clima,393,2.77,Rural,Sim
+OC-0276,2026-07-23 05:00:00,Belém,Manutenção programada,1500,5.18,Rural,Sim
+OC-0277,2026-04-23 20:00:00,Altamira,Outra,85,6.33,Rural,Não
+OC-0278,2026-05-09 14:00:00,Belém,Equipamento,1447,2.38,Rural,Sim
+OC-0279,2026-04-04 22:00:00,Marabá,Clima,109,5.32,Urbana,Sim
+OC-0280,2026-05-30 01:00:00,Barcarena,Terceiros,974,2.57,Rural,Sim
+OC-0281,2026-07-21 01:00:00,Belém,Outra,1317,1.6,Rural,Sim
+OC-0282,2026-05-06 20:00:00,Castanhal,Manutenção programada,906,1.16,Rural,Não
+OC-0283,2026-08-05 00:00:00,Belém,Clima,796,3.56,Urbana,Não
+OC-0284,2026-08-23 07:00:00,Marabá,Outra,783,3.45,Rural,Não
+OC-0285,2026-06-09 15:00:00,Marabá,Equipamento,104,2.09,Rural,Não
+OC-0286,2026-06-02 04:00:00,Ananindeua,Manutenção programada,363,3.25,Rural,Sim
+OC-0287,2026-04-05 14:00:00,Barcarena,Equipamento,722,3.13,Rural,Não
+OC-0288,2026-08-14 19:00:00,Belém,Clima,1686,2.39,Rural,Não
+OC-0289,2026-09-14 16:00:00,Marabá,Outra,810,3.22,Urbana,Sim
+OC-0290,2026-06-25 01:00:00,Ananindeua,Equipamento,1526,3.58,Urbana,Sim
+OC-0291,2026-09-14 06:00:00,Castanhal,Equipamento,1430,5.54,Rural,Sim
+OC-0292,2026-08-05 17:00:00,Marabá,Manutenção programada,1718,9.96,Urbana,Sim
+OC-0293,2026-08-09 09:00:00,Santarém,Clima,20,1.31,Rural,Não
+OC-0294,2026-06-16 11:00:00,Ananindeua,Outra,138,9.96,Rural,Não
+OC-0295,2026-09-03 11:00:00,Ananindeua,Terceiros,1072,12.96,Urbana,Não
+OC-0296,2026-09-14 04:00:00,Parauapebas,Clima,1792,1.26,Rural,Não
+OC-0297,2026-07-27 13:00:00,Belém,Vegetação,997,2.26,Urbana,Sim
+OC-0298,2026-06-28 09:00:00,Belém,Clima,699,4.62,Rural,Sim
+OC-0299,2026-06-09 18:00:00,Barcarena,Equipamento,461,6.39,Rural,Sim
+OC-0300,2026-07-21 08:00:00,Castanhal,Vegetação,1355,7.7,Urbana,Sim
+OC-0301,2026-04-29 12:00:00,Altamira,Vegetação,175,5.54,Urbana,Sim
+OC-0302,2026-05-15 14:00:00,Belém,Terceiros,633,3.33,Urbana,Sim
+OC-0303,2026-07-04 02:00:00,Marabá,Outra,279,3.31,Urbana,Não
+OC-0304,2026-05-24 01:00:00,Belém,Outra,765,1.52,Rural,Sim
+OC-0305,2026-09-17 22:00:00,Barcarena,Manutenção programada,765,3.35,Urbana,Sim
+OC-0306,2026-05-27 18:00:00,Parauapebas,Vegetação,598,2.24,Rural,Sim
+OC-0307,2026-05-01 19:00:00,Castanhal,Equipamento,83,4.73,Urbana,Não
+OC-0308,2026-06-05 15:00:00,Parauapebas,Manutenção programada,468,1.16,Rural,Não
+OC-0309,2026-05-16 08:00:00,Santarém,Manutenção programada,647,6.48,Urbana,Não
+OC-0310,2026-08-02 20:00:00,Castanhal,Outra,945,10.3,Rural,Sim
+OC-0311,2026-05-03 22:00:00,Ananindeua,Terceiros,431,5.57,Urbana,Não
+OC-0312,2026-06-04 05:00:00,Marabá,Manutenção programada,1081,0.65,Urbana,Sim
+OC-0313,2026-09-06 13:00:00,Santarém,Vegetação,1393,6.01,Urbana,Sim
+OC-0314,2026-04-04 21:00:00,Santarém,Outra,283,3.23,Urbana,Sim
+OC-0315,2026-07-15 00:00:00,Parauapebas,Vegetação,24,2.74,Urbana,Não
+OC-0316,2026-06-02 13:00:00,Ananindeua,Manutenção programada,1681,4.01,Urbana,Sim
+OC-0317,2026-08-30 23:00:00,Ananindeua,Outra,1435,6.47,Urbana,Não
+OC-0318,2026-05-31 22:00:00,Ananindeua,Equipamento,172,1.51,Urbana,Não
+OC-0319,2026-05-12 14:00:00,Marabá,Vegetação,1284,3.31,Urbana,Não
+OC-0320,2026-07-23 14:00:00,Altamira,Terceiros,11,2.25,Rural,Não
+OC-0321,2026-08-08 23:00:00,Barcarena,Outra,1418,5.53,Urbana,Sim
+OC-0322,2026-09-01 20:00:00,Santarém,Terceiros,665,2.95,Rural,Sim
+OC-0323,2026-04-20 22:00:00,Santarém,Terceiros,1602,3.38,Rural,Não
+OC-0324,2026-09-30 07:00:00,Parauapebas,Clima,827,1.01,Rural,Sim
+OC-0325,2026-05-26 07:00:00,Parauapebas,Terceiros,746,0.79,Urbana,Sim
+OC-0326,2026-08-22 21:00:00,Belém,Outra,888,4.98,Rural,Não
+OC-0327,2026-05-08 13:00:00,Santarém,Terceiros,1072,5.13,Urbana,Não
+OC-0328,2026-04-19 02:00:00,Marabá,Equipamento,282,4.39,Rural,Sim
+OC-0329,2026-09-25 16:00:00,Parauapebas,Clima,65,6.49,Rural,Sim
+OC-0330,2026-06-24 12:00:00,Barcarena,Equipamento,1351,2.29,Rural,Sim
+OC-0331,2026-04-14 09:00:00,Barcarena,Vegetação,901,5.03,Rural,Não
+OC-0332,2026-05-16 21:00:00,Parauapebas,Equipamento,207,3.99,Urbana,Não
+OC-0333,2026-05-24 00:00:00,Santarém,Terceiros,494,2.87,Urbana,Sim
+OC-0334,2026-06-09 16:00:00,Santarém,Outra,1115,1.02,Rural,Não
+OC-0335,2026-09-13 14:00:00,Santarém,Manutenção programada,1416,1.4,Urbana,Sim
+OC-0336,2026-06-13 07:00:00,Castanhal,Outra,362,5.97,Rural,Não
+OC-0337,2026-04-07 15:00:00,Ananindeua,Equipamento,437,3.11,Rural,Não
+OC-0338,2026-05-07 13:00:00,Belém,Clima,1746,8.51,Urbana,Sim
+OC-0339,2026-04-01 08:00:00,Castanhal,Equipamento,1466,0.79,Urbana,Sim
+OC-0340,2026-05-27 16:00:00,Barcarena,Manutenção programada,1116,0.97,Urbana,Sim
+OC-0341,2026-06-27 05:00:00,Belém,Equipamento,246,7.86,Rural,Não
+OC-0342,2026-04-22 08:00:00,Belém,Terceiros,439,1.85,Urbana,Sim
+OC-0343,2026-06-24 13:00:00,Ananindeua,Outra,261,1.41,Rural,Não
+OC-0344,2026-07-23 00:00:00,Castanhal,Outra,1019,1.17,Rural,Sim
+OC-0345,2026-04-02 15:00:00,Parauapebas,Outra,1118,2.35,Rural,Sim
+OC-0346,2026-05-06 12:00:00,Parauapebas,Terceiros,1564,11.82,Urbana,Sim
+OC-0347,2026-08-11 21:00:00,Altamira,Clima,1772,1.43,Rural,Não
+OC-0348,2026-07-31 15:00:00,Barcarena,Vegetação,1672,6.24,Rural,Não
+OC-0349,2026-04-21 08:00:00,Santarém,Terceiros,1513,1.89,Urbana,Sim
+OC-0350,2026-08-23 03:00:00,Ananindeua,Manutenção programada,756,2.77,Urbana,Sim
+OC-0351,2026-05-22 08:00:00,Parauapebas,Clima,1774,5.51,Urbana,Não
+OC-0352,2026-09-28 14:00:00,Parauapebas,Manutenção programada,1360,10.91,Urbana,Sim
+OC-0353,2026-09-23 12:00:00,Barcarena,Outra,1466,11.2,Urbana,Sim
+OC-0354,2026-07-12 08:00:00,Santarém,Vegetação,717,6.84,Rural,Sim
+OC-0355,2026-05-24 15:00:00,Belém,Equipamento,668,2.9,Urbana,Não
+OC-0356,2026-06-10 08:00:00,Ananindeua,Equipamento,1730,1.41,Rural,Sim
+OC-0357,2026-06-21 17:00:00,Ananindeua,Equipamento,301,0.56,Urbana,Sim
+OC-0358,2026-06-05 11:00:00,Ananindeua,Equipamento,66,7.33,Urbana,Sim
+OC-0359,2026-08-10 13:00:00,Barcarena,Outra,368,2.38,Rural,Sim
+OC-0360,2026-08-07 07:00:00,Belém,Terceiros,693,3.93,Urbana,Não
+OC-0361,2026-04-29 05:00:00,Altamira,Clima,1762,5.13,Urbana,Sim
+OC-0362,2026-07-10 07:00:00,Castanhal,Clima,819,3.05,Rural,Não
+OC-0363,2026-08-11 00:00:00,Altamira,Terceiros,83,4.02,Urbana,Sim
+OC-0364,2026-06-03 22:00:00,Ananindeua,Outra,1631,3.72,Urbana,Não
+OC-0365,2026-04-19 13:00:00,Santarém,Vegetação,1427,3.81,Urbana,Sim
+OC-0366,2026-07-06 17:00:00,Belém,Outra,1230,4.52,Urbana,Sim
+OC-0367,2026-05-02 19:00:00,Santarém,Vegetação,564,0.93,Urbana,Não
+OC-0368,2026-07-17 05:00:00,Barcarena,Clima,5,2.89,Rural,Sim
+OC-0369,2026-04-24 04:00:00,Marabá,Clima,295,3.37,Urbana,Sim
+OC-0370,2026-05-09 15:00:00,Altamira,Outra,964,3.3,Rural,Não
+OC-0371,2026-07-15 21:00:00,Marabá,Outra,1308,4.35,Urbana,Sim
+OC-0372,2026-07-30 23:00:00,Barcarena,Terceiros,966,4.24,Urbana,Sim
+OC-0373,2026-09-20 22:00:00,Altamira,Clima,1122,2.54,Urbana,Não
+OC-0374,2026-05-29 12:00:00,Ananindeua,Clima,1732,1.05,Urbana,Sim
+OC-0375,2026-04-03 08:00:00,Ananindeua,Vegetação,1187,1.16,Rural,Sim
+OC-0376,2026-08-05 11:00:00,Parauapebas,Vegetação,1286,4.91,Urbana,Não
+OC-0377,2026-07-26 23:00:00,Altamira,Terceiros,1732,5.06,Urbana,Sim
+OC-0378,2026-06-29 00:00:00,Barcarena,Terceiros,1143,1.57,Urbana,Não
+OC-0379,2026-04-05 19:00:00,Castanhal,Equipamento,745,1.32,Rural,Sim
+OC-0380,2026-06-21 04:00:00,Belém,Vegetação,1188,3.06,Rural,Não
+OC-0381,2026-04-03 18:00:00,Parauapebas,Manutenção programada,1326,1.29,Rural,Sim
+OC-0382,2026-08-24 21:00:00,Ananindeua,Outra,173,2.53,Urbana,Sim
+OC-0383,2026-06-28 10:00:00,Santarém,Outra,131,6.0,Urbana,Não
+OC-0384,2026-07-27 22:00:00,Parauapebas,Outra,171,2.46,Urbana,Sim
+OC-0385,2026-06-12 03:00:00,Marabá,Manutenção programada,401,2.1,Urbana,Sim
+OC-0386,2026-07-27 12:00:00,Santarém,Clima,1005,4.91,Urbana,Sim
+OC-0387,2026-09-14 09:00:00,Ananindeua,Equipamento,1441,2.78,Urbana,Não
+OC-0388,2026-08-05 17:00:00,Castanhal,Equipamento,453,2.04,Urbana,Sim
+OC-0389,2026-07-11 00:00:00,Belém,Terceiros,1293,8.34,Rural,Sim
+OC-0390,2026-06-09 12:00:00,Marabá,Vegetação,1767,3.28,Urbana,Sim
+OC-0391,2026-05-12 01:00:00,Barcarena,Clima,1723,2.66,Rural,Sim
+OC-0392,2026-07-04 19:00:00,Altamira,Terceiros,986,4.7,Urbana,Não
+OC-0393,2026-08-06 17:00:00,Altamira,Clima,296,1.04,Urbana,Sim
+OC-0394,2026-07-30 16:00:00,Belém,Outra,1417,3.86,Urbana,Sim
+OC-0395,2026-04-19 12:00:00,Ananindeua,Equipamento,1142,0.88,Urbana,Sim
+OC-0396,2026-05-26 15:00:00,Ananindeua,Outra,1354,5.19,Urbana,Não
+OC-0397,2026-04-07 23:00:00,Ananindeua,Terceiros,255,0.83,Rural,Sim
+OC-0398,2026-06-22 23:00:00,Belém,Outra,1374,1.43,Urbana,Não
+OC-0399,2026-08-20 22:00:00,Altamira,Terceiros,1452,3.9,Urbana,Não
+OC-0400,2026-04-18 06:00:00,Castanhal,Equipamento,1384,5.92,Urbana,Sim
+OC-0401,2026-05-30 11:00:00,Marabá,Manutenção programada,1549,1.6,Rural,Não
+OC-0402,2026-06-02 08:00:00,Barcarena,Manutenção programada,790,9.54,Urbana,Sim
+OC-0403,2026-05-25 10:00:00,Marabá,Equipamento,1549,3.91,Urbana,Não
+OC-0404,2026-04-01 10:00:00,Parauapebas,Terceiros,1169,4.62,Urbana,Não
+OC-0405,2026-09-20 06:00:00,Barcarena,Clima,813,2.22,Urbana,Sim
+OC-0406,2026-04-04 01:00:00,Belém,Outra,942,1.97,Rural,Sim
+OC-0407,2026-05-12 01:00:00,Parauapebas,Equipamento,232,4.05,Rural,Sim
+OC-0408,2026-05-13 07:00:00,Altamira,Outra,527,5.08,Rural,Sim
+OC-0409,2026-04-03 16:00:00,Parauapebas,Terceiros,227,3.04,Urbana,Sim
+OC-0410,2026-09-13 21:00:00,Parauapebas,Vegetação,1387,2.26,Rural,Sim
+OC-0411,2026-04-20 15:00:00,Altamira,Equipamento,1521,3.96,Urbana,Não
+OC-0412,2026-05-19 05:00:00,Castanhal,Vegetação,567,3.1,Rural,Sim
+OC-0413,2026-08-13 22:00:00,Belém,Outra,88,3.19,Rural,Sim
+OC-0414,2026-06-09 19:00:00,Parauapebas,Vegetação,1233,2.8,Urbana,Não
+OC-0415,2026-05-29 16:00:00,Barcarena,Manutenção programada,935,2.04,Rural,Sim
+OC-0416,2026-08-19 00:00:00,Marabá,Vegetação,160,4.5,Urbana,Sim
+OC-0417,2026-04-11 17:00:00,Castanhal,Clima,1218,1.05,Urbana,Não
+OC-0418,2026-08-22 21:00:00,Castanhal,Manutenção programada,529,12.02,Urbana,Sim
+OC-0419,2026-04-09 10:00:00,Castanhal,Outra,635,13.38,Rural,Sim
+OC-0420,2026-05-24 11:00:00,Barcarena,Terceiros,147,6.11,Urbana,Sim

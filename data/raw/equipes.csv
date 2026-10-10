@@ -1,0 +1,16 @@
+﻿equipe_id,regional_base,especialidade,quantidade_tecnicos,turno,custo_hora_estimado_brl
+EQ-01,Belém,Rede de distribuição,3,Misto,126.69
+EQ-02,Ananindeua,Manutenção,6,Diurno,166.57
+EQ-03,Marabá,Atendimento emergencial,3,Diurno,93.95
+EQ-04,Santarém,Inspeção,5,Misto,177.68
+EQ-05,Castanhal,Serviços comerciais,5,Noturno,159.68
+EQ-06,Altamira,Rede de distribuição,6,Diurno,97.17
+EQ-07,Parauapebas,Manutenção,6,Diurno,120.23
+EQ-08,Barcarena,Atendimento emergencial,4,Diurno,173.04
+EQ-09,Belém,Inspeção,6,Misto,163.16
+EQ-10,Ananindeua,Serviços comerciais,5,Diurno,127.12
+EQ-11,Marabá,Rede de distribuição,4,Misto,137.69
+EQ-12,Santarém,Manutenção,3,Misto,91.06
+EQ-13,Castanhal,Atendimento emergencial,6,Misto,145.01
+EQ-14,Altamira,Inspeção,6,Diurno,157.02
+EQ-15,Parauapebas,Serviços comerciais,5,Misto,177.22
